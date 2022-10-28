@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a 👨‍💻 Full-Stack Developer working in Rostov-on-Don, Russia
+## I'm a 👨‍💻 Full-Stack Developer. Now living in Batumi, Georgia 🇬🇪
 
 - 🔭 I’m currently free for hire. Relocation preferred ✈️
 - 🌱 I’m currently learning Swift and Elixir
